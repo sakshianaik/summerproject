@@ -1,3 +1,3 @@
 # spro
 
-(Demo Link)[https://sakshinaik.netlify.app/]
+[https://sakshinaik.netlify.app/]
