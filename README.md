@@ -1,6 +1,6 @@
 # NETFLIX CLONE
 
-https://sakshinaik.netlify.app/
+https://ncne.netlify.app/
 
 
 This is a simplified NETFLIX UI cloned responsive website developed using HTML and CSS(Flexboxes and Grids).
